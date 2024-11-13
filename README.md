@@ -1,4 +1,3 @@
-Domino's-SQL-Project
 🍕 Domino’s Pizza Sales Analysis SQL Project
 
 Author: Gowthami Vatti
