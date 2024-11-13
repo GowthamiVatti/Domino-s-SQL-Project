@@ -1,4 +1,4 @@
-🍕 **Domino’s Pizza Sales Analysis SQL Project**  
+🍕 **Domino’s Pizza Sales Analysis SQL Project** 
 **Author:** Gowthami  
 **GitHub Repository:** [https://github.com/GowthamiVatti/Domino-s-SQL-Project]
 
