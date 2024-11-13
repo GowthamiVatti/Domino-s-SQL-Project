@@ -1,8 +1,6 @@
 🍕 Domino’s Pizza Sales Analysis SQL Project
-
-Author: Gowthami Vatti
-
-GitHub Repository: [https://github.com/GowthamiVatti/Domino-s-SQL-Project]
+Author: Gowthami
+GitHub Repository: [Link to Repository]
 
 📋 Project Overview
 I'm excited to share my recent SQL project, a comprehensive analysis of Domino’s Pizza sales data. Using SQL queries and joins across multiple tables, I explored customer preferences, ordering patterns, and revenue contributions. This analysis provides actionable insights that can support data-driven decision-making for businesses.
@@ -31,4 +29,4 @@ Popular Pizza Types & Sizes: Identified the top 5 most ordered pizzas and prefer
 Peak Ordering Times: Analyzed hourly order distribution to find peak demand times.
 Revenue Contribution by Pizza Type: Broke down each pizza type's percentage of total revenue.
 Category Insights: Highlighted the top 3 revenue-generating pizzas within each category, providing a focus on high-demand areas.
-#SQL #DataAnalysis #PizzaSales #DataScience #BusinessIntelligence #Dominos #DataDriven #DataTrends #SQLProject# Domino-s-SQL-Project
+#SQL #DataAnalysis #PizzaSales #DataScience #BusinessIntelligence #Dominos #DataDriven #DataTrends #SQLProject #Gowthami
